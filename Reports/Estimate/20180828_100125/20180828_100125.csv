@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Estimate,Chrome 68.0.3440.106,,2018-08-28 10:01:28,2018-08-28 10:07:45,6m - 16.373s,FAILED
+,,,,,,
+Test Cases/BEP/TestCases/TC_CreateBEP_EmailOutput_SendEmail_CreateECR,Chrome 68.0.3440.106,,2018-08-28 10:01:29,2018-08-28 10:07:41,6m - 12.063s,FAILED
+callTestCase,Chrome 68.0.3440.106,,2018-08-28 10:01:29,2018-08-28 10:07:41,6m - 11.553s,FAILED
